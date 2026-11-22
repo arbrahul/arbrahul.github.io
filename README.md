@@ -1,7 +1,7 @@
 # arbrahul.github.io
 
-This site only hosts the **public** key that Tesla requires for the Home Assistant
-Tesla Fleet integration (read-only vehicle data):
+This site only hosts the **public** key that Tesla requires for a personal,
+read-only app:
 
 `/.well-known/appspecific/com.tesla.3p.public-key.pem`
 
